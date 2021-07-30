@@ -1,0 +1,10 @@
+Brown , George $441.0
+Doe , John $783.75
+Gomez , Juan $700.88
+Hernandez , Henry $397.5
+Jones , Mary $540.0
+Lopez , Carlotte $665.0
+Maines , Jonathan $660.0
+Ortiz , James $480.0
+
+The total payroll for the week is: $4668.13
